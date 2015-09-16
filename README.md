@@ -1,2 +1,2 @@
-# wxArmEDA
-wxArmEDA is a complex free software suite for electronic design automation.
+## wxArmEDA - Áрмида
+Áрмида - это комплекс свободного программного обеспечения для проектирования электронных устройств.
